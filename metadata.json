@@ -1,0 +1,49 @@
+{
+  "name": "Bounty Hunter #3082",
+  "symbol": "S3BH",
+  "description": "Evolve, Plug in, Switch on, Join the Hunt & Stake your Claim on the Future - Now. Bounty Hunters are a collection of 8000 unique NFT's on the solana blockchain",
+  "seller_fee_basis_points": 200,
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https%3A%2F%2Fbafybeidgjobifw7d2haysclzsc5iiyzrhz5eji2o2xtlia3g7qh5sqk6ri.ipfs.nftstorage.link%2F5749.png%3Fext%3Dpng",
+  "attributes": [
+   {
+      "trait_type": "Backgrounds",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Teal X-Ray"
+    },
+    {
+      "trait_type": "Skins attribute",
+      "value": "Tatt Free"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Dog Tagz"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LFG, Joe!"
+    },
+    {
+      "trait_type": "Mouth & Facial Hair",
+      "value": "Scream"
+    },
+    {
+      "trait_type": "Headwear & Hair",
+      "value": "Fancy Beret"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Blue"
+    }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+
